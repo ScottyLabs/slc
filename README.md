@@ -1,0 +1,3 @@
+# slc
+
+Agentic Coding Agent
